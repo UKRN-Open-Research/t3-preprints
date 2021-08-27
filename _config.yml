@@ -1,10 +1,13 @@
 ---
 
 workshop_id:
-topic:
-title:
-instructors: []
-instructor_emails: []
+topic: train-the-trainer
+title: Train-the-Trainer - Preprints
+instructors: [Matt Jaquiery, Jackie Thompson, Emma Wilson]
+instructor_emails:
+  - matt.jaquiery@psy.ox.ac.uk
+  - jackie.thompson@bristol.ac.uk
+  - Emma.Wilson@ed.ac.uk
 helpers: []
 # A list of hh|mm time formats [avoids jekyll auto-conversion].
 # Only days with scheduled items get a start time.
@@ -13,7 +16,7 @@ start_times: ["09|00"]
 # list of files in _includes/install_instructions to use in the setup page
 setup_files: []
 language: en
-venue:
+venue: Online (Gather Town)
 address:
 country:
 latitude:
@@ -26,7 +29,7 @@ optional_intro_sections: ["requirements", "accessibility"]
 
 # Custom but fixed fields
 kind: workshop
-ukrn_email: training@ukrn.org
+ukrn_email: ORT@ukrn.org
 ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
