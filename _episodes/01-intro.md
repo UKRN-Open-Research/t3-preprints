@@ -1,7 +1,7 @@
 ---
 title: Introduction # title of the episode
-teaching: 25 # time required to teach (minutes)
-exercises: 5 # time required for participants to do the activities (minutes)
+teaching: 20 # time required to teach (minutes)
+exercises: 10 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Some basic logistics and an outline of how the course will go.
@@ -46,7 +46,7 @@ At the end, there will be a large block of time for you to use the Workshop Buil
 
 Data sharing means something a bit different in practice to all of you - that's why we can't just produce a one-size-fits-all guide and be done with it!
 
-> ## Discussion `5 min`
+> ## Discussion `10 min`
 > What does data sharing mean for you?
 >
 > What are you hoping your colleagues will know by the end of your workshops?
