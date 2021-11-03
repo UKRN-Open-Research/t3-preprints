@@ -1,10 +1,10 @@
 ---
 title: Introduction # title of the episode
-teaching: 20 # time required to teach (minutes)
+teaching: 25 # time required to teach (minutes)
 exercises: 10 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
-summary: Some basic logistics and an outline of how the course will go.
+summary: Some basic logistics and an outline of the workshop structure.
 questions: # list of questions we are trying to answer
 objectives: # list of learning outcomes
 keypoints:  # list of take-home points
@@ -21,9 +21,8 @@ order: 100000
 
 ## UKRN Open Research Training
 
-You're here to get involved in helping your colleagues share their data.
-Increasing data sharing is part of the UKRN mission to improve the openness and robustness of research.
-We can help you put together a workshop which will make it easier to achieve real changes in your colleagues' behaviour, and you can bring your specialist knowledge and experience.
+You're here to get involved in helping your colleagues share preprints of their work.
+We can help you put together a workshop which will make it easier to achieve real changes in your colleagues' behaviour, and you can bring your specialist knowledge of the field and experience.
 
 > ## Approach
 > * **Practical workflow change**: we want to produce actual changes to how people work by tweaking their default workflow
@@ -33,7 +32,8 @@ We can help you put together a workshop which will make it easier to achieve rea
 
 ### Course structure
 
-Today we'll be giving you some tips on how to deliver workshops, courtesy of our guest-presenter Louise from Bristol Institute of Teaching and Learning, followed by an introduction to our Workshop Builder Tool and our Resource List.
+Today we'll start with discussions about the pros and cons of preprints, and think about what a workshop on preprints might cover and how it will meet your colleagues' needs.
+We'll be giving you some tips on how to deliver workshops, courtesy of our guest-presenter Louise from Bristol Institute of Teaching and Learning, and an introduction to our Workshop Builder Tool and our Resource List.
 At the end, there will be a large block of time for you to use the Workshop Builder Tool (or something else if you prefer) to build your own workshop to deliver to your colleagues.
 
 > ## What you'll get out of this course
@@ -42,12 +42,12 @@ At the end, there will be a large block of time for you to use the Workshop Buil
 > * Membership of an enthusiastic community of like-minded researchers in various disciplines
 {: .checklist}
 
-### Data sharing
+### Preprints
 
-Data sharing means something a bit different in practice to all of you - that's why we can't just produce a one-size-fits-all guide and be done with it!
+Preprints are a bit different in practice between various fields - that's why we can't just produce a one-size-fits-all guide and be done with it!
 
-> ## Discussion `10 min`
-> What does data sharing mean for you?
+> ## Activity `10 min`
+> Write a sentence or two in the **Introductions section** of the <a href="https://docs.google.com/document/d/1ceDUd9PAcdZS25rHBFgnRV5PKMPgeuPErL8-k44IsRg/edit?usp=sharing
+" target="_blank">collaborative editing document</a> that tells your fellow attendees a little bit about yourself, your field, and your background with preprints.
 >
-> What are you hoping your colleagues will know by the end of your workshops?
-{: .discussion}
+{: .challenge}

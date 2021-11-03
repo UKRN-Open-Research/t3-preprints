@@ -1,7 +1,7 @@
 ---
 title: Running a Workshop # title of the episode
-teaching: 30 # time required to teach (minutes)
-exercises: 45 # time required for participants to do the activities (minutes)
+teaching: 20 # time required to teach (minutes)
+exercises: 25 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Tips on making content engaging and running a successful workshop.
@@ -18,7 +18,7 @@ is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 day: 1
-order: 200000
+order: 300000
 
 ---
 
