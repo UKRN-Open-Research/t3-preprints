@@ -1,7 +1,7 @@
 ---
 title: Workshop Building (Part 2) # title of the episode
-teaching: 10 # time required to teach (minutes)
-exercises: 65 # time required for participants to do the activities (minutes)
+teaching:  # time required to teach (minutes)
+exercises: 75 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Use the Workshop Builder Tool and Open Research Resources Browser to build your workshop.
@@ -18,12 +18,6 @@ day: 1
 order: 700000
 
 ---
-
-First we have a quick reminder from Louise about some of the things to keep in mind about delivering your workshop while you're building it.
-
-## Back to building `65 mins`
-
-And then back to building the rest of your workshop.
 
 > ## Resources
 > * <a href="{{ site.ukrn_or_template }}" target="_blank">Workshop Template</a>
@@ -46,4 +40,4 @@ And then back to building the rest of your workshop.
 > Everyone else can ignore the chat/conversation and get on with creating a workshop while it's all going smoothly.
 {: .testimonial}
 
-We aim to be finished in about 60 minutes so we can practice delivering some parts of the workshop before the end of the day.
+We aim to be finished in 75 minutes so we can practice delivering some parts of the workshop before the end of the day.
