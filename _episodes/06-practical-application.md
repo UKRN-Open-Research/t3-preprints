@@ -35,8 +35,10 @@ If you prefer, you can create your workshop using other tools, of course - the i
 > ## We're here to help
 > Ask us if you get stuck, or just want to talk something over.
 >
-> You can ask questions in the chat, or ask one of us out loud.
+> The best way to get our attention is to walk over to a help area in Gather.Town and we'll come to help.
+>
+> You can also ask questions in the chat, out loud.
 > Everyone else can ignore the chat/conversation and get on with creating a workshop while it's all going smoothly.
 {: .testimonial}
 
-We'll have a break in 90 minutes and take stock of how everyone's getting on.
+We'll have a break in 60 minutes and take stock of how everyone's getting on.

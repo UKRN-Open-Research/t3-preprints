@@ -25,24 +25,19 @@ order: 400000
 We suggest a three-part structure to your workshop which begins with some discussion and education, gives participants a toy example to work through, and then reserves a large block of time for them to apply what they've learned to their own workflows.
 We're trying to work _with_ people to _tweak_ rather than overhaul how they currently do things.
 
-At each stage, keep in mind both the immediate goal (e.g. participants should understand how to write a data dictionary) and the ultimate goal (participants should default to sharing their data where possible).
+At each stage, keep in mind both the immediate goal (e.g. participants should understand how to identify an appropriate preprint server) and the ultimate goal (participants should make sharing preprints part of their normal research workflow).
 
 To help plan out the workshop structure, you can use our <a href="{{ site.ukrn_or_template }}" target="_blank">workshop structure template</a>.
 
-> ## Plan your workshop `20 min`
-> Working alone or in a small group (especially if your research fields have similar data sharing practices), sketch an outline of your workshop and the content you think your colleagues will need to know to implement data sharing into their own work.
+> ## Plan your workshop `25 min`
+> Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know to preprint their own work.
 >
-> * How much do they know about data sharing?
-> * What concerns might they have?
-> * When do they need to start thinking about data sharing?
-> * What resources (e.g. library services) exist to help them?
-> * How do you format and clean data for sharing?
-> * What kind of data do you store?
-> * Where do you store data?
-> * Does the service have a tutorial or allow you to upload dummy data?
-> * How will you help people integrate sharing into the _existing workflow_?
+> What are the most important points or skills to cover in your workshop? (what sections/aspects will you focus more or less on)
+> What concepts do you think your attendees will be most unclear on or need the most guidance on?
+> How will you amend the template for your workshop? What is missing? What would you leave out?
+> What do you (the trainer) not know about preprints that you want to learn before you give a workshop?
+> What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to post preprints?
 >
-> Might some of the activities we encountered this morning help with any of these?
 {: .checklist}
 
 
