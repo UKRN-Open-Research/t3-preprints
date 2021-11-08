@@ -21,7 +21,7 @@ address:
 country:
 latitude:
 longitude:
-start_date: 2021-11-16
+start_date:
 collaborative_notes:
 eventbrite:
 # list of files in path _includes/intro/* .md files can be customised; .html files cannot be customised. Files with an initial _ are ignored.
