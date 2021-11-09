@@ -72,16 +72,17 @@ You can add and customise lessons created by other users of the Workshop Builder
 There are also template lessons if you want to build yours from scratch.
 Let's start by customising an introductory lesson.
 
-> ## Add jspsych-born-open-data Introduction `15 min`
+> ## Add Emma's preprints-workshop-template Introduction to preprints `15 min`
 > 1. Click 'Add Items to Stash'
-> 2. Enter 'mjaquiery' in the search box to narrow the results down
-> 3. Select the dropdown for 'jspsych-born-open-data' and wait while the results are fetched
+> 2. Enter 'emma' in the search box to narrow the results down
+> 3. Select the dropdown for 'preprints-workshop-template' and wait while the results are fetched
 > 4. Click 'Add items to stash' - you should now see a lot of lessons in the 'Stash'
-> 5. Find 'Introduction' and drag it into the 'Day 1' slot
+> 5. Find 'Introduction to preprints' and drag it into the 'Day 1' slot
 > 6. You'll see a green '+' icon appear in the lesson's icon bar - click it and you'll install the remote lesson into your workshop
 {: .challenge}
 
 Now it's installed, you can edit its metadata ('Edit properties' icon) and content ('Edit content' icon).
+You'll want to change the content because a lot of it is placeholder content that gives you hints about what kind of things you'll want to say.
 
 The content is written in a combination of [liquid, jekyll](https://devhints.io/jekyll), html, and markdown.
 The markdown editor will allow you to use the buttons to insert markdown features like **bold**, and _italic_ text, and [hyperlinks](https://example.com/).

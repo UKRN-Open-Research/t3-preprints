@@ -24,6 +24,9 @@ We are not aiming for a template or for notes that we're expecting you to develo
 
 You have your workshop plan from the <a href="{{ site.ukrn_or_template }}" target="_blank">template</a>.
 Now you can build that plan into a workshop using the <a href="{{ site.ukrn_or_builder }}" target="_blank">Workshop Builder Tool</a> and <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resources Browser</a>.
+When you're using the builder, try adding the lessons from the <a href="{{ site.ukrn_or_demo }}" target="_blank">Preprints Demo Workshop</a>.
+You can then drag the pages into your workshop and tweak them to say what you want them to say!
+
 If you prefer, you can create your workshop using other tools, of course - the important thing is to get it done!
 
 > ## Remember:

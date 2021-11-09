@@ -28,6 +28,7 @@ We're trying to work _with_ people to _tweak_ rather than overhaul how they curr
 At each stage, keep in mind both the immediate goal (e.g. participants should understand how to identify an appropriate preprint server) and the ultimate goal (participants should make sharing preprints part of their normal research workflow).
 
 To help plan out the workshop structure, you can use our <a href="{{ site.ukrn_or_template }}" target="_blank">workshop structure template</a>.
+When you're building the workshop you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Preprints Workshop Demo</a> and edit the pages to say what you want them to.
 
 > ## Plan your workshop `25 min`
 > Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know to preprint their own work.
