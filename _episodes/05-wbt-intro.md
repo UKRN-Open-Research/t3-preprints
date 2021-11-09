@@ -100,21 +100,6 @@ Click either of the 'save' buttons and you'll see the website updates in a few s
 > If you're waiting for us to finish helping others, have a go at **adding** and **customising** some more lessons, or go back to the **'Customize workshop' step** and add some more workshop details there.
 {: .challenge}
 
-## Open Research Resource Browser
-
-The <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resource Browser</a> is a tool that reads and filters a Google Sheets document we have created (and to which you can contribute) which lists open research resources.
-
-You should find the Browser intuitive to use, but ask if you're not sure.
-
-> ## Can you... `10 min`
-> 1. Find NASA's GeneLab
-> 2. Work out how many Humanities resources there are
-> 3. Find the data repositories which mention 'sequence' in their description
-{: .challenge}
-
-The spreadsheet the resources are taken from is <a href="{{ site.ukrn_or_resources }}" target="_blank">available to view</a> and we welcome suggestions for additional contributions.
-Contributions can be added and available instantly, so just ask us to add something if you need it.
-
 ## Using the Tools
 
 You don't have to use the tools we provide.

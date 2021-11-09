@@ -30,6 +30,24 @@ At each stage, keep in mind both the immediate goal (e.g. participants should un
 To help plan out the workshop structure, you can use our <a href="{{ site.ukrn_or_template }}" target="_blank">workshop structure template</a>.
 When you're building the workshop you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Preprints Workshop Demo</a> and edit the pages to say what you want them to.
 
+## Open Research Resource Browser
+
+You may find that our <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resource Browser</a> helps you with finding resources to include in your workshop.
+The Open Research Resource Browser is a tool that reads and filters a Google Sheets document we have created (and to which you can contribute) which lists open research resources.
+
+You should find the Browser intuitive to use, but ask if you're not sure.
+
+> ## Can you...
+> 1. Find NASA's GeneLab
+> 2. Work out how many Humanities resources there are
+> 3. Find the data repositories which mention 'sequence' in their description
+{: .challenge}
+
+The spreadsheet the resources are taken from is <a href="{{ site.ukrn_or_resources }}" target="_blank">available to view</a> and we welcome suggestions for additional contributions.
+Contributions can be added and available instantly, so just ask us to add something if you need it.
+
+## Over to you...
+
 > ## Plan your workshop `25 min`
 > Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know to preprint their own work.
 >
@@ -38,6 +56,9 @@ When you're building the workshop you can use our <a href="{{ site.ukrn_or_demo 
 > How will you amend the template for your workshop? What is missing? What would you leave out?
 > What do you (the trainer) not know about preprints that you want to learn before you give a workshop?
 > What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to post preprints?
+>
+> Try to draft a plan of what you want to cover.
+> In a few minutes you'll have the opportunity to build your workshop, and it'll be easier to do if you've done some of the thinking first!
 >
 {: .checklist}
 
