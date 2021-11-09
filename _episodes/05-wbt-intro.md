@@ -47,7 +47,7 @@ You'll need a GitHub account - you can create one via the Builder Tool if you do
 > 2. Press the button to log in to your GitHub account (it will let you create one if you need to!)
 > 3. **Create a new repository**
 > 4. Select a **topic** and a **title** for your workshop, then scroll to the bottom of the Customize Workshop page and click the button
-> 5. The 'workshop id' should be a two- or three-letter code for your university/institution followed by `DS` followed by today's date in YYYYMMDD format, followed by `_01`
+> 5. The 'workshop id' should be a two- or three-letter code for your university/institution followed by `PP` followed by today's date in YYYYMMDD format, followed by `_01`
 >   * This id allows us to keep track of where attendees are and to ensure you get a copy of the feedback attendees give
 {: .challenge}
 
