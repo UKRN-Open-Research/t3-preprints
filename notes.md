@@ -18,6 +18,7 @@ title: Instructor Notes
 > >     * Others won't hear you, but people standing close will
 > > * Private rooms
 > >   * Only those inside the room hear you
+> > * Interact with whiteboards/objects by pressing x  
 > > * Technical issues
 > >   * Zoom backup/email?
 > > * Mute when not talking please
@@ -25,48 +26,50 @@ title: Instructor Notes
 > {: .callout}
 >
 > ### Welcome
-> Have everyone assemble in the broadcast room.
+> Have everyone assemble in the main square.
 >
-> Brief introductions from each participant?
-> * They can use their status (click own name) to indicate expertise, institution, etc.
 >
 > > We've probably all had that experience of reading through a tutorial on some open research topic and wondering "...but how do I actually _do_ that?"
 >
 > That's the problem we're aiming to solve together today.
 >
-> * Direct people to initial survey
 > * Introduce the workshop philosophy
 > * Explain the learning objectives
 >    * Manage expectations - building rather than receiving
 >    * Making the most of _their knowledge_
+> * Timeline - morning activities aim to help you design a workshop, afternoon to build it
+> * Explain that the course is interactive - expected to be active all day (except during breaks!)
+> * Tabs or webpages to have open - course website and collab doc mainly
 >
-> ### Data sharing discussion
->  > If more than 8 people use breakout rooms of 3-6
->  {: .callout}
->  * How much diversity of issues is there?
->  * Don't get side-tracked into complex/niche issues like GDPR
->  * Try to bring together their aims/expectations with the course goals
->     * Building a workshop
->     * Producing practical changes
+>  Introductions
+> * Organizers (Emma/Matt/Jackie), helpers (Will), experts (Alex, Louise, Iratxe)
+> * Invite attendees to introduce themselves on the collaborative google doc
+> 
 {: .solution}
 
-> ## `09:30 - 10:45` - Running a Workshop / Pedagogy Skills (`Louise`)
-> * Outline of the general target structure for the workshop
-> * Determining learning objectives
-> * Determining learning activities / lesson components
-> * Types of Assessment
-> * Practical skills for delivering teaching
-> * Administration for workshops (e.g. location, advertising, staff)
+> ## `09:30 - 10:30` - Preprints Discussion (`Jackie`)
+> * Introduce Alex - his 5min presentation will give a brief overview of preprints
+> * Introduce group discussion plan - breakout rooms, discussion points on course website and collaborative doc
+> * After 5-10 min, instructors should drop into the rooms to see how it's going and answer Qs
+> * After 30 min, reconvene the whole group and have 1 person from each group report back
 {: .solution}
 
-> ## `10:45 - 11:00` - Morning break
+> ## `10:30 - 10:45` - Morning break
 > > Make sure one of the instructors/helpers is available if people need to chat
 > > * Make sure attendees get a break!
 > >  * Encourage non-screen time
 > {: .callout}
 {: .solution}
 
-> ## `11:00 - 12:00` - Workshop Planning (`???`)
+> ## `10:45 - 11:30` - Running a Workshop / Pedagogy Skills (`Louise`)
+> * Outline of the general target structure for the workshop
+> * Determining learning objectives
+> * Determining learning activities / lesson components
+> * Types of Assessment
+> * Practical skills for delivering teaching
+{: .solution}
+
+> ## `11:30 - 12:00` - Workshop Planning (`Emma`)
 > Planning can be done using breakout rooms.
 > * Introduce UoB Library staff!
 >
@@ -127,7 +130,7 @@ title: Instructor Notes
 > {: .callout}
 {: .solution}
 
-> ## `13:30 - 14:35` - Workshop Building (part 1) (`???`)
+> ## `13:30 - 14:30` - Workshop Building (part 1) (`???`)
 > > * Questions can be asked in chat
 > > * Questions can be asked in call - with screen sharing
 > >   * Breakout room available but main room preferred so others can listen in/see what's going on
@@ -143,7 +146,7 @@ title: Instructor Notes
 > > Remember - **we want this complete by the end of the day because _we don't want homework_**
 {: .solution}
 
-> ## `14:35 - 14:45` - Afternoon Break
+> ## `14:30 - 14:45` - Afternoon Break
 > > Make sure one of the instructors/helpers is available if people need to chat
 > > * Make sure attendees get a break!
 > >  * Encourage non-screen time
@@ -156,7 +159,9 @@ title: Instructor Notes
 > Remind everyone that Louise is back for a bit to answer questions.
 {: .solution}
 
-> ## `16:00 - 16:45` - Practising your Workshop (`???`)
+> ## `16:00 - 16:45` - Practising your Workshop (`Louise/Jackie`)
+> > Introduce Louise for the remainder of her presentation
+> > 
 > > Groups of 3-5 in breakout rooms
 > {: .callout}
 > * Idea is not to teach a whole lesson, just to get a flavour of your own personal approach
