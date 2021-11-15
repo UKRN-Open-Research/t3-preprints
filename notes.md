@@ -70,18 +70,18 @@ title: Instructor Notes
 {: .solution}
 
 > ## `11:30 - 12:00` - Workshop Planning (`Emma`)
-> Planning can be done using breakout rooms.
-> * Introduce UoB Library staff!
->
-> > Keep on task in the discussion.
-> > * About 5 min for what people might know/think coming in
-> > * About 10 min for resources/practical questions
-> > * About 5 min to research how to practice with your chosen repository/platform
-> > Instructors in breakout rooms if necessary. If enough, one instructor remains in the main room.
-> {: .callout}
-> * Make the workshop planning template visible/salient
-> * Make the list of learning activities available
-{: .solution}
+> The aim of this session is to start planning your workshop.
+>  * Introduce to two resources (template and resource browser) then over to you to plan your workshop.
+> 
+> Summarise the five main section in the workshop template.
+> 
+> Introduce the resource browser.
+> * Short activity to help you nagivate the browser.
+> 
+> Over to you to plan your workshop. 
+> * Feel free to work alone or in groups.
+> * Consider the questions in the course website / collaborative notes.
+
 
 > ## `12:00 - 12:45` - Lunch Break
 > > Have an instructor rotation so someone is always available for chats/help while others are getting lunch
