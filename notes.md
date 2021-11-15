@@ -81,7 +81,7 @@ title: Instructor Notes
 > Over to you to plan your workshop. 
 > * Feel free to work alone or in groups.
 > * Consider the questions in the course website / collaborative notes.
-
+{: .solution}
 
 > ## `12:00 - 12:45` - Lunch Break
 > > Have an instructor rotation so someone is always available for chats/help while others are getting lunch
