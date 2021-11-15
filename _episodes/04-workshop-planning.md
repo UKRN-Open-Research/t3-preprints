@@ -37,9 +37,9 @@ The Open Research Resource Browser is a tool that reads and filters a Google She
 
 You should find the Browser intuitive to use, but ask if you're not sure.
 
-> ## Can you...
+> ## Can you find...
 > 1. ASAPbio's Preprint Course?
-> 2. PLOS's Prepeint Checklist
+> 2. PLOS's Prepeint Checklist?
 {: .challenge}
 
 The spreadsheet the resources are taken from is <a href="{{ site.ukrn_or_resources }}" target="_blank">available to view</a> and we welcome suggestions for additional contributions.
