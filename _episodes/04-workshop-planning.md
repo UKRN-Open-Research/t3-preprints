@@ -54,7 +54,9 @@ Contributions can be added and available instantly, so just ask us to add someth
 > What are the most important points or skills to cover in your workshop? (what sections/aspects will you focus more or less on)
 > What concepts do you think your attendees will be most unclear on or need the most guidance on?
 > How will you amend the template for your workshop? What is missing? What would you leave out?
+> 
 > What do you (the trainer) not know about preprints that you want to learn before you give a workshop?
+> 
 > What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to post preprints?
 >
 > Try to draft a plan of what you want to cover.
